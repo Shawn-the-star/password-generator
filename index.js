@@ -25,6 +25,3 @@ class Password {
 		return id;
 	}
 }
-
-const pass = new Password(24).generate()
-console.log(pass)
